@@ -15,4 +15,4 @@ My Email: chazz.kreutzkamp@gmail.com
 
 ## Image of the Application in Action:
 
-![al text](https://github.com/ChazzKreutzkamp/BlogIt-Challenge-14/blob/main/README-IMG/Home.JPG)
+![al text](https://github.com/ChazzKreutzkamp/budget-tracker-project-19/blob/main/readme-img/app.JPG)
