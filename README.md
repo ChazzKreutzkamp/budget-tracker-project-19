@@ -7,7 +7,7 @@ Welcome Budget Tracker. This PWA web app was designed to help you the user manag
 
 My GitHub Account: [ChazzKreutzkamp](https://github.com/ChazzKreutzkamp)
 
-Heroku deployed URL: [Heroku Link](https://fierce-caverns-72769.herokuapp.com/)
+Heroku deployed URL: [Heroku Link](https://hidden-sierra-83814.herokuapp.com/)
 
 ## Any Further Questions Feel Free to Contact Me:
 
