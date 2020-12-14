@@ -1,4 +1,4 @@
-# Budget Tracker Starter Code
+# Budget Tracker
 ## Description
 
 Welcome Budget Tracker. This PWA web app was designed to help you the user manage their expenses. In this app you can enter in your expenses and see how they impact a graph that displays your total assets or debt. This app was designed for finiky internet, so if you go offline at anytime you won't loose progress entering in new budget items. In addition, you can directly install the app on your computer or phone as it was designed as a PWA web application.
